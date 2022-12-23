@@ -1,0 +1,30 @@
+.problem {
+    list-style-type: none;
+}
+
+.problem-name {
+    background-image: linear-gradient(to left, #25fb70, #158b36);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.description {
+    font-style: italic;
+    color: gray;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.remainingAttempts {
+    color: 1
+}
+
+.spell-name {
+    display: none;
+}
+
+.spell {
+    border: 2px lightgrey;
+}
